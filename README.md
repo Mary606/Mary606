@@ -1,6 +1,5 @@
 <h3 align="center">Sou uma estudante do curso de Engenharia!</h3>
 
-- 📫 How to reach me **mariaeduardasouzafreitas01@gmail.com**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
@@ -22,6 +21,6 @@
 
 <br clear="both">
 
-<img src="https://raw.githubusercontent.com/maurodesouza/maurodesouza/output/snake.svg" alt="Snake animation" />
+<img src="https://raw.githubusercontent.com/maurodesouza/maurodesouza/output/snake.yml" alt="Snake animation" />
 
 ###
